@@ -11,3 +11,4 @@ height="45" width="45" /> I'm Svetlana</h1>
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-khachatryan-6a2961233)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svetlanakhachatryan29@gmail.com)
