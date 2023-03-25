@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"
 height="45" width="45" /> I'm Svetlana</h1>
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="545" height="315" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="550" height="320" />
 
 
 # 💫 About Me :
