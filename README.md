@@ -3,7 +3,7 @@ height="45" width="45" /> I'm Svetlana</h1>
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115194519/227700970-47679394-b2b7-48bc-b9ee-1e5508ebd85b.gif" width="480" height="360">
  
 # 💫 About Me :
-- 🧬 I'm currently studying in the last year of my bachelor's degree in bioinformatics.
+- 🧬 I already have a bachelor degree in biophysics and bioinformatics.
 - 4️⃣2️⃣ I'm a student of the 42Yerevan programming school.
 - 💻 I'm currently learning and coding in C/C++.
 - 🤖 I'm interested in system programming :)
